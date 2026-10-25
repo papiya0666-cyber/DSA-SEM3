@@ -1,6 +1,5 @@
 #include<stdio.h>
 #define size 5
-int queue[size];
 int front = -1;
 int rear = -1;
 int item[size];
